@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 💻 Full Stack Developer transitioning deeper into **DevOps, Infrastructure, CI/CD, and QA**.
-- 🎓 Studying **Information Systems Engineering** at **Universidad Tecnológica Nacional - FR La Plata**.
+- 🎓 Studying **Information Systems Engineering** at **Universidad Tecnológica Nacional - Facultad Regional La Plata**.
 - 🔬 Contributing in a research lab (**LINES**) doing **DevOps** tasks and **QA** for AI-related projects.
 - 🧠 Growing strong in **Python** while keeping a solid **TypeScript** ecosystem workflow.
 - 🌱 Focus areas for 2025: Infrastructure as Code (Terraform), Advanced CI/CD patterns, Observability, Test Automation.
@@ -34,8 +34,14 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?logo=astro&logoColor=F7BA3E" />
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+</p>
+
+#### Data Layer / ORM
+<p>
+  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-262627?logo=typeorm&logoColor=F37626" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-3A3A3A?logo=sequelize&logoColor=52B0E7" />
 </p>
 
 #### Databases & Infra
@@ -48,6 +54,9 @@
 #### CI/CD & QA
 <p>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45BA4B?logo=playwright&logoColor=white" />
+  <img alt="Django Tests" src="https://img.shields.io/badge/Django%20Tests-092E20?logo=django&logoColor=white" />
 </p>
 
 #### Media & Cloud
@@ -68,9 +77,10 @@
 
 | Project | Tech Highlights | What I Learned |
 |---------|-----------------|----------------|
-| [LocaliCity](https://github.com/PietrantuonoFranco/LocaliCity) | React, Next.js, Tailwind, TypeScript | Frontend architecture, component reuse, modern UI styling |
-| [Nutrigym](https://github.com/PietrantuonoFranco/nutrigym) | Docker, Nginx, GitHub Actions, CI/CD | Containerization, reverse proxy setup, automated pipelines |
-| [FK Stickers](https://github.com/PietrantuonoFranco/fk-stickers) | (Add tech stack) | (Add short description or key takeaway) |
+| [LocaliCity](https://github.com/PietrantuonoFranco/LocaliCity) | TypeScript, Next.js, React, Tailwind CSS, PostgreSQL, Express, TypeORM | Frontend architecture, component reuse, modern UI styling, typed backend models |
+| [Nutrigym](https://github.com/PietrantuonoFranco/nutrigym) | JavaScript, React, Next.js, Tailwind CSS, PostgreSQL, Express, Sequelize, Docker, Nginx, GitHub Actions (CI/CD) | Containerization, reverse proxy configuration, automated CI/CD pipelines, backend architecture, REST API design |
+| [FK Stickers](https://github.com/PietrantuonoFranco/fk-stickers) | TypeScript, Astro, React, Tailwind CSS, PostgreSQL, Express, TypeORM, Docker, Cloudinary | Media asset management with Cloudinary, full-stack integration, SSR/SSG patterns with Astro |
+| [MM Grúas](https://mmgruas.com.ar/) | TypeScript, React, Tailwind CSS, Vercel, Cloudinary | SEO best practices, Vercel deployment with custom domain, Cloudinary Product Gallery Widget |
 
 > Want a deeper breakdown of any project? Open an issue—happy to discuss architecture decisions.
 
