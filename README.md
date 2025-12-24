@@ -77,9 +77,9 @@
 
 | Project | Tech Highlights | What I Learned |
 |---------|-----------------|----------------|
-| [LocaliCity](https://github.com/PietrantuonoFranco/LocaliCity) | TypeScript, Astro, React, Tailwind CSS, PostgreSQL, Express, TypeORM | Frontend architecture, component reuse, modern UI styling, typed backend models |
-| [Nutrigym](https://github.com/PietrantuonoFranco/nutrigym) | JavaScript, React, Next.js, Tailwind CSS, PostgreSQL, Express, Sequelize, Docker, Nginx, GitHub Actions (CI/CD) | Containerization, reverse proxy configuration, automated CI/CD pipelines, backend architecture, REST API design |
-| [FK Stickers](https://github.com/PietrantuonoFranco/fk-stickers) | TypeScript, Next.js, React, Tailwind CSS, PostgreSQL, Express, TypeORM, Docker, Cloudinary | Media asset management with Cloudinary, full-stack integration, SSR/SSG patterns with Astro |
+| [LocaliCity](https://github.com/PietrantuonoFranco/LocaliCity) | Docker, Nginx, GitHub Actions (CI/CD), TypeScript, Astro, React, Tailwind CSS, PostgreSQL, Express, TypeORM | Containerization, reverse proxy configuration, automated CI/CD pipelines, backend architecture, REST API design |
+| [Nutrigym](https://github.com/PietrantuonoFranco/nutrigym) | JavaScript, React, Next.js, Tailwind CSS, PostgreSQL, Express, Sequelize | Frontend architecture, component reuse, modern UI styling, typed backend models, SSR/SSG patterns with Next.js |
+| [FK Stickers](https://github.com/PietrantuonoFranco/fk-stickers) | TypeScript, Next.js, React, Tailwind CSS, PostgreSQL, Express, TypeORM, Docker, Cloudinary | Media asset management with Cloudinary, full-stack integration |
 | [MM Grúas](https://mmgruas.com.ar/) | TypeScript, React, Tailwind CSS, Vercel, Cloudinary | SEO best practices, Vercel deployment with custom domain, Cloudinary Product Gallery Widget |
 
 > Want a deeper breakdown of any project? Open an issue—happy to discuss architecture decisions.
