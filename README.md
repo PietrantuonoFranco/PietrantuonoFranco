@@ -109,11 +109,11 @@ I like to think beyond writing code:
 ### 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PietrantuonoFranco&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PietrantuonoFranco&theme=tokyonight" alt="GitHub streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PietrantuonoFranco&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=PietrantuonoFranco&theme=tokyonight" alt="GitHub streak" height="160" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietrantuonoFranco&layout=compact&theme=tokyonight" alt="Top languages" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietrantuonoFranco&layout=compact&theme=tokyonight&count_private=true" alt="Top languages" height="140" />
 </p>
 
 ---
