@@ -109,7 +109,7 @@ I like to think beyond writing code:
 ### 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PietrantuonoFranco&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PietrantuonoFranco&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PietrantuonoFranco&theme=tokyonight" alt="GitHub streak" height="160" />
