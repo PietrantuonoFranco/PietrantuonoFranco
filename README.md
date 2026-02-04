@@ -36,12 +36,17 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white" />
 </p>
 
 #### Data Layer / ORM
 <p>
   <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-262627?logo=typeorm&logoColor=F37626" />
   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-3A3A3A?logo=sequelize&logoColor=52B0E7" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" />
+  <img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000000" />
 </p>
 
 #### Databases & Infra
@@ -49,6 +54,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img alt="Milvus" src="https://img.shields.io/badge/Milvus-00A1EA?logo=milvus&logoColor=white" />
 </p>
 
 #### CI/CD & QA
@@ -63,6 +69,7 @@
 <p>
   <img alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-001E36?logo=adobephotoshop&logoColor=31A8FF" />
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white" />
 </p>
 
 #### Other
